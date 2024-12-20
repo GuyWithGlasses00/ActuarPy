@@ -1,5 +1,8 @@
 from setuptools import setup, find_packages
 
+with open("requirements.txt") as f:
+    requirements = f.read().splitlines()
+
 setup(
     name="ActuarPy",
     version="0.1.0",
@@ -14,5 +17,6 @@ setup(
         "License :: OSI Approved :: Apache 2.0 License",
         "Operating System :: OS Independent"
     ],
-    python_requires=">=3.6"
+    python_requires=">=3.6",
+    install_requires=requirements
 )
