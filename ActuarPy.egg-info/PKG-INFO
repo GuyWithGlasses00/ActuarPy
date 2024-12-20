@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ActuarPy
+Version: 0.1.0
+Home-page: https://github.com/GuyWithGlasses00/ActuaryPy
+Author: Issaac Hansen
+Author-email: issaac.hansen@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache 2.0 License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ActuarPy
+ActuarPy is an open-source Python library designed to simplify and standardize key actuarial tasks in the Property &amp; Casualty (P&amp;C) insurance domain. Built for actuaries, data scientists, and insurance professionals, ActuarPy provides a robust set of tools to analyze, model, and visualize insurance data efficiently.

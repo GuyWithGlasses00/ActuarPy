@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+ActuarPy.egg-info/PKG-INFO
+ActuarPy.egg-info/SOURCES.txt
+ActuarPy.egg-info/dependency_links.txt
+ActuarPy.egg-info/top_level.txt
+ActuaryPy/__init__.py
+tests/__init__.py
